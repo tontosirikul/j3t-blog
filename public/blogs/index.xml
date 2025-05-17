@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ton Tosirikul</title>
-    <link>http://localhost:59715/</link>
-    <description>Recent content in Home on Ton Tosirikul</description>
+    <title>Blogs on Ton Tosirikul</title>
+    <link>http://localhost:59715/blogs/</link>
+    <description>Recent content in Blogs on Ton Tosirikul</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59715/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59715/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Production Issue: what I could and couldn’t do as a new Developer 💥</title>
       <link>http://localhost:59715/blogs/first-prod-incident/</link>
@@ -21,13 +21,6 @@
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:59715/blogs/finish-bsc-what-next/</guid>
       <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I will finish my bachelor&amp;rsquo;s degree in robotics and artificial intelligence in the next two months. Many things have happened to me during the past few months, from regretting my degree that is not worth the money to changing to a new career path.&lt;/p&gt;&#xA;&lt;p&gt;This blog intends to use it to illustrate my next plan and my reflection on my Bsc life.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;lets-talk-about-my-degree-disappointment&#34;&gt;&#xA;  Let&amp;rsquo;s talk about my degree disappointment.&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lets-talk-about-my-degree-disappointment&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My expectation for this degree is to become a robotics software engineer. Still, most of the modules&amp;rsquo; poor lectures, lack guidance, random syllabus couldn&amp;rsquo;t give me essential knowledge to be a job-ready robotics software engineer (Compared to other university curricula and each module syllabus).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:59715/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59715/about/</guid>
-      <description>&lt;p&gt;I graduated from &lt;a href=&#34;https://www.kmitl.ac.th&#34;&gt;KMITL&lt;/a&gt; in 2022 with a BEng in Robotics and AI, then continued my studies at the &lt;a href=&#34;https://www.gla.ac.uk&#34;&gt;University of Glasgow&lt;/a&gt;, earning a degree MSc in Software Development in 2023. Since 2024, I’ve been working as a software engineer at &lt;a href=&#34;https://corporate.exxonmobil.com&#34;&gt;ExxonMobil&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I discovered my passion for software development during an internship at &lt;a href=&#34;https://www.scg.com&#34;&gt;SCG&lt;/a&gt;, where I had the chance to work on factory production monitoring system as software developer and collaborate with experienced AI and IoT engineers. That experience sparked my curiosity and motivated me to pursue a master’s degree to deepen my understanding and expand my skills.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Ton Tosirikul</title>
+    <link>http://localhost:59083/tags/test/</link>
+    <description>Recent content in Test on Ton Tosirikul</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59083/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Production Issue: what I could—and couldn’t—do as a new Developer 💥</title>
+      <link>http://localhost:59083/posts/first-prod-incident/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59083/posts/first-prod-incident/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I’ve been working at ExxonMobil for about six months now as a new graduate developer. I’m currently the sole developer maintaining our team’s services. For most of that time, things had been running smoothly. There were no incidents, and I felt fairly confident keeping everything stable. That changed when a production issue occurred—one that didn’t directly involve my part of the system, but it still put me in a position where I had to step up. It was a moment that made me realise just how much I didn’t know—and pushed me to grow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

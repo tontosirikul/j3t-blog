@@ -3,22 +3,18 @@ languageCode = 'en-us'
 title = 'Ton Tosirikul'
 theme = 'typo'
 
-
-
-
-
 [params]
 description = "A Tech Blog"
 theme = 'auto'
 colorPalette = 'default'
-listSummaries = true
 homeIntroTitle = 'Hi there 👋'
 homeIntroContent = """
 I’m Ton, also known as Jake — just two names for the same person. 
-I'm a software engineer, partly because I enjoy solving problems — and partly because it pays well enough to let me live in the costly city of Bangkok.  
+I'm a software engineer, partly because I enjoy solving problems — and partly because it covers the bills and feeds me.
 
 This blog isn’t just about what I learn as a developer — it’s also a space where I share my thoughts, experiences, and reflections on life. Whether it’s tech, travel, or everyday moments, I write to connect, reflect, and occasionally make sense of it all.
 """
+paginationSize = 10
 
 [params.breadcrumbs]
 enabled = true
@@ -34,8 +30,8 @@ name = "about"
 url = "/about"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
+name = "blogs"
+url = "/blogs"
 
 [[params.social]]
 name = "github"
