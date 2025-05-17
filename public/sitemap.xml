@@ -2,32 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54096/blogs/</loc>
+    <loc>https://tripletjake.vercel.app/blogs/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54096/tags/career/</loc>
+    <loc>https://tripletjake.vercel.app/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54096/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:54096/tags/learning/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:54096/blogs/first-prod-incident/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:54096/tags/reflection/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:54096/tags/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:54096/blogs/finish-bsc-what-next/</loc>
+    <loc>https://tripletjake.vercel.app/tags/career/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54096/about/</loc>
+    <loc>https://tripletjake.vercel.app/blogs/finish-bsc-what-next/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54096/categories/</loc>
+    <loc>https://tripletjake.vercel.app/tags/learning/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tripletjake.vercel.app/tags/reflection/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tripletjake.vercel.app/tags/</loc>
+    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tripletjake.vercel.app/about/</loc>
+  </url><url>
+    <loc>https://tripletjake.vercel.app/categories/</loc>
   </url>
 </urlset>

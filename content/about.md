@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+disableComment: true
 ---
 
 I graduated from [KMITL](https://www.kmitl.ac.th) in 2022 with a BEng in Robotics and AI, then continued my studies at the [University of Glasgow](https://www.gla.ac.uk), earning a degree MSc in Software Development in 2023. Since 2024, I’ve been working as a software engineer at [ExxonMobil](https://corporate.exxonmobil.com).
