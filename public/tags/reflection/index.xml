@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflection on Ton Tosirikul</title>
-    <link>http://localhost:52525/tags/reflection/</link>
+    <link>http://localhost:54096/tags/reflection/</link>
     <description>Recent content in Reflection on Ton Tosirikul</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52525/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54096/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Production Issue: what I could and couldn’t do as a new Developer 💥</title>
-      <link>http://localhost:52525/blogs/first-prod-incident/</link>
+      <link>http://localhost:54096/blogs/first-prod-incident/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52525/blogs/first-prod-incident/</guid>
+      <guid>http://localhost:54096/blogs/first-prod-incident/</guid>
       <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I’ve been working at ExxonMobil for about six months now as a new graduate developer. I’m currently the sole developer maintaining our team’s services. For most of that time, things had been running smoothly. There were no incidents, and I felt fairly confident keeping everything stable. That changed when a production issue occurred—one that didn’t directly involve my part of the system, but it still put me in a position where I had to step up. It was a moment that made me realise just how much I didn’t know—and pushed me to grow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finished my Bsc, what next? 👨‍🎓</title>
-      <link>http://localhost:52525/blogs/finish-bsc-what-next/</link>
+      <link>http://localhost:54096/blogs/finish-bsc-what-next/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52525/blogs/finish-bsc-what-next/</guid>
-      <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I will finish my bachelor&amp;rsquo;s degree in robotics and artificial intelligence in the next two months. Many things have happened to me during the past few months, from regretting my degree that is not worth the money to changing to a new career path.&lt;/p&gt;&#xA;&lt;p&gt;This blog intends to use it to illustrate my next plan and my reflection on my Bsc life.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;lets-talk-about-my-degree-disappointment&#34;&gt;&#xA;  Let&amp;rsquo;s talk about my degree disappointment.&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lets-talk-about-my-degree-disappointment&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My expectation for this degree is to become a robotics software engineer. Still, most of the modules&amp;rsquo; poor lectures, lack guidance, random syllabus couldn&amp;rsquo;t give me essential knowledge to be a job-ready robotics software engineer (Compared to other university curricula and each module syllabus).&lt;/p&gt;</description>
+      <guid>http://localhost:54096/blogs/finish-bsc-what-next/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I’m about to finish my bachelor’s degree in Robotics and Artificial Intelligence in the next two months. The past few months have been a rollercoaster—ranging from regretting the value of my degree to considering a complete career shift.&lt;/p&gt;&#xA;&lt;p&gt;This blog is my reflection on that journey and a breakdown of what comes next.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;lets-talk-about-my-degree-disappointment&#34;&gt;&#xA;  Let&amp;rsquo;s talk about my degree disappointment.&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lets-talk-about-my-degree-disappointment&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I originally pursued this degree with the hope of becoming a robotics software engineer. Unfortunately, the reality didn’t match my expectations. Many modules suffered from poor instruction, lack of guidance, and an incoherent syllabus. As a result, I didn&amp;rsquo;t gain the solid foundation needed to become a job-ready robotics engineer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -8,19 +8,19 @@ showTags = true
 
 ## Introduction
 
-I will finish my bachelor's degree in robotics and artificial intelligence in the next two months. Many things have happened to me during the past few months, from regretting my degree that is not worth the money to changing to a new career path.
+I’m about to finish my bachelor’s degree in Robotics and Artificial Intelligence in the next two months. The past few months have been a rollercoaster—ranging from regretting the value of my degree to considering a complete career shift.
 
-This blog intends to use it to illustrate my next plan and my reflection on my Bsc life.
+This blog is my reflection on that journey and a breakdown of what comes next.
 
 ## Let's talk about my degree disappointment.
 
-My expectation for this degree is to become a robotics software engineer. Still, most of the modules' poor lectures, lack guidance, random syllabus couldn't give me essential knowledge to be a job-ready robotics software engineer (Compared to other university curricula and each module syllabus).
+I originally pursued this degree with the hope of becoming a robotics software engineer. Unfortunately, the reality didn’t match my expectations. Many modules suffered from poor instruction, lack of guidance, and an incoherent syllabus. As a result, I didn't gain the solid foundation needed to become a job-ready robotics engineer.
 
-Besides the robotics modules, there were several artificial intelligence and data-related modules. Most of them offered by other departments' lecturer is intense lectures but lack practical skills. However, those still give me enough knowledge to understand Artificial Intelligence.
+On the bright side, a few AI and data-related modules—mostly offered by other departments—were useful. While theory-heavy and lacking in hands-on practice, they still helped me understand the broader landscape of Artificial Intelligence.
 
-As I said, I expect to become a robotics software engineer, not a machine learning engineer. Because the only knowledge I got from university was relatively poor. It forced me to do my best self-study about coding from outside the university (Udacity, Skooldio, and Coursera). It ended up with me asking my supervisors of cooperative study to let me work only with software development and a little bit of machine learning related.
+Because the university fell short in teaching practical skills, I turned to external resources like Udacity, Skooldio, and Coursera. I poured my energy into self-study and eventually asked my cooperative education supervisors to let me focus solely on software development, with only a bit of machine learning work.
 
-Since then, I have known that computer science, software engineering, or software development is another path available for making a living. But how can I compete with other students from those degrees since my degree has consisted of only one computer programming module? (Also, how can I compete to become a robotics engineer with graduated from other universities)
+That’s when I realized that computer science, software engineering, or general software development could be another viable path. But one big question remained: how could I compete with students who had actually studied those subjects? After all, my degree included just one computer programming module. And when it comes to robotics, how can I compete with graduates from better universities?
 
 ## Passion is not working in this cruel world.
 

@@ -44,3 +44,12 @@ url = "https://github.com/tontosirikul"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/user/ton.tosirikul"
+
+[params.giscus]
+enable = true
+repo = "tontosirikul/trippletjake.dev"
+repoid = "R_kgDOOriMeQ"
+category = "general"
+categoryid = "DIC_kwDOOriMec4CqRVT"
+mapping = "pathname"
+theme = "preferred_color_scheme"
