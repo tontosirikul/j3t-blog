@@ -2,13 +2,13 @@
 date = '2025-05-03'
 draft = true
 title = 'My First Production Issue: what I could and couldn’t do as a new Developer 💥'
+tags = ['career', 'learning', 'reflection']
+showTags = true
 +++
 
 ## Introduction
 
 I’ve been working at ExxonMobil for about six months now as a new graduate developer. I’m currently the sole developer maintaining our team’s services. For most of that time, things had been running smoothly. There were no incidents, and I felt fairly confident keeping everything stable. That changed when a production issue occurred—one that didn’t directly involve my part of the system, but it still put me in a position where I had to step up. It was a moment that made me realise just how much I didn’t know—and pushed me to grow.
-
-## The Situation
 
 ## My Role During the Incident
 

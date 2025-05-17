@@ -1,4 +1,4 @@
-baseURL = 'https://tripletjake.vercel.app/'
+BaseURL = 'https://tripletjake.vercel.app/'
 languageCode = 'en-us'
 title = 'Ton Tosirikul'
 theme = 'typo'
@@ -32,6 +32,10 @@ url = "/about"
 [[params.menu]]
 name = "blogs"
 url = "/blogs"
+
+[[params.menu]]
+name = "tags"
+url = "/tags"
 
 [[params.social]]
 name = "github"

@@ -2,6 +2,8 @@
 date = '2022-04-18'
 draft = false
 title = 'Finished my Bsc, what next? 👨‍🎓'
+tags = ['reflection', 'career', 'learning']
+showTags = true
 +++
 
 ## Introduction

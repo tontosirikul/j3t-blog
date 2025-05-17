@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ton Tosirikul</title>
-    <link>http://localhost:59715/tags/</link>
+    <link>http://localhost:52525/tags/</link>
     <description>Recent content in Tags on Ton Tosirikul</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:59715/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:52525/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>http://localhost:52525/tags/career/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52525/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:52525/tags/learning/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52525/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>http://localhost:52525/tags/reflection/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52525/tags/reflection/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
