@@ -4,7 +4,7 @@ title = 'Ton Tosirikul'
 theme = 'typo'
 
 [params]
-description = "A Tech Blog"
+description = "A personal blog by Ton, also known as Jake — a software engineer who writes about tech, and life."
 theme = 'auto'
 colorPalette = 'default'
 homeIntroTitle = 'Hi there 👋'
