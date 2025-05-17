@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ton Tosirikul</title>
-    <link>https://trippletjake.vercel.app/tags/</link>
+    <link>https://j3t.vercel.app/tags/</link>
     <description>Recent content in Tags on Ton Tosirikul</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://trippletjake.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://j3t.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career</title>
-      <link>https://trippletjake.vercel.app/tags/career/</link>
+      <link>https://j3t.vercel.app/tags/career/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://trippletjake.vercel.app/tags/career/</guid>
+      <guid>https://j3t.vercel.app/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
-      <link>https://trippletjake.vercel.app/tags/learning/</link>
+      <link>https://j3t.vercel.app/tags/learning/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://trippletjake.vercel.app/tags/learning/</guid>
+      <guid>https://j3t.vercel.app/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflection</title>
-      <link>https://trippletjake.vercel.app/tags/reflection/</link>
+      <link>https://j3t.vercel.app/tags/reflection/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://trippletjake.vercel.app/tags/reflection/</guid>
+      <guid>https://j3t.vercel.app/tags/reflection/</guid>
       <description></description>
     </item>
   </channel>
