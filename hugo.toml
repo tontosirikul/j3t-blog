@@ -47,7 +47,7 @@ url = "https://linkedin.com/in/tontosirikul"
 
 [params.giscus]
 enable = true
-repo = "tontosirikul/trippletjake.dev"
+repo = "tontosirikul/j3t-blog"
 repoid = "R_kgDOOriMeQ"
 category = "general"
 categoryid = "DIC_kwDOOriMec4CqRVT"
