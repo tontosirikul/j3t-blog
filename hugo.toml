@@ -1,4 +1,4 @@
-baseURL = 'https://tripletjake.velcel.app/'
+baseURL = 'https://tripletjake.vercel.app/'
 languageCode = 'en-us'
 title = 'Ton Tosirikul'
 theme = 'typo'
