@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ton Tosirikul</title>
+    <link>http://localhost:52026/</link>
+    <description>Recent content in Home on Ton Tosirikul</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 May 2025 13:39:34 +0700</lastBuildDate>
+    <atom:link href="http://localhost:52026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:52026/posts/first-post/</link>
+      <pubDate>Sat, 17 May 2025 13:39:34 +0700</pubDate>
+      <guid>http://localhost:52026/posts/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:52026/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52026/about/</guid>
+      <description>&lt;p&gt;I graduated from &lt;a href=&#34;https://www.kmitl.ac.th&#34;&gt;KMITL&lt;/a&gt; in 2022 with a BEng in Robotics and AI, then continued my studies at the &lt;a href=&#34;https://www.gla.ac.uk&#34;&gt;University of Glasgow&lt;/a&gt;, earning a degree MSc in Software Development in 2023. Since 2024, I’ve been working as a software engineer at &lt;a href=&#34;https://corporate.exxonmobil.com&#34;&gt;ExxonMobil&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I discovered my passion for software development during an internship at &lt;a href=&#34;https://www.scg.com&#34;&gt;SCG&lt;/a&gt;, where I had the chance to work on factory production monitoring system as software developer and collaborate with experienced AI and IoT engineers. That experience sparked my curiosity and motivated me to pursue a master’s degree to deepen my understanding and expand my skills.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
