@@ -1,6 +1,6 @@
 BaseURL = 'https://j3t.vercel.app/'
 languageCode = 'en-us'
-title = 'Ton Tosirikul'
+title = 'Ton (Jake) Tosirikul'
 theme = 'typo'
 
 [params]
