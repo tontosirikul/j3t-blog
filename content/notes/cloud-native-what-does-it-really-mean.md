@@ -3,6 +3,8 @@ date = '2025-06-22'
 draft = false
 title = '[Cloud Native Fundamental] What Does “Cloud Native” Really Mean? ☁️'
 tags = ['cloud', 'learning', 'development']
+toc= true
+readTime= true
 showTags = true
 +++
 

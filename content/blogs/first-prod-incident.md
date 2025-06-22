@@ -3,6 +3,8 @@ date = '2025-05-03'
 draft = false
 title = 'My First Production Issue: what I could and couldn’t do as a new Developer 💥'
 tags = ['career', 'learning', 'reflection']
+toc= true
+readTime= true
 showTags = true
 +++
 
