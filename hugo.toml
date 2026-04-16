@@ -9,8 +9,7 @@ theme = 'auto'
 colorPalette = 'default'
 homeIntroTitle = 'Hi there 👋'
 homeIntroContent = """
-I’m Ton, also known as Jake — just two names for the same person. 
-I'm a software engineer, partly because I enjoy solving problems — and partly because it covers the bills and feeds me.
+I'm Ton, a software engineer. I do it partly because I genuinely enjoy solving problems, and partly because bills don't pay themselves.
 
 This blog isn’t just about what I learn as a developer — it’s also a space where I share my thoughts, experiences, and reflections on life. Whether it’s tech, travel, or everyday moments, I write to connect, reflect, and occasionally make sense of it all.
 """
@@ -38,7 +37,7 @@ name = "notes"
 url = "/notes"
 
 [[params.menu]]
-name = "reading lists"
+name = "reading"
 url = "/reading"
 
 [[params.menu]]
