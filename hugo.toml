@@ -38,6 +38,10 @@ name = "notes"
 url = "/notes"
 
 [[params.menu]]
+name = "reading lists"
+url = "/reading"
+
+[[params.menu]]
 name = "tags"
 url = "/tags"
 
