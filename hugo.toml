@@ -11,7 +11,7 @@ homeIntroTitle = 'Hi there 👋'
 homeIntroContent = """
 I'm Ton, a software engineer. I do it partly because I genuinely enjoy solving problems, and partly because bills don't pay themselves.
 
-This blog isn’t just about what I learn as a developer — it’s also a space where I share my thoughts, experiences, and reflections on life. Whether it’s tech, travel, or everyday moments, I write to connect, reflect, and occasionally make sense of it all.
+This blog is just for documenting things so I don't have to keep repeating myself. If I sent you here, you'll find what you need.
 """
 paginationSize = 10
 
