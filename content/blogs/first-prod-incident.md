@@ -14,7 +14,7 @@ I’ve been working at ExxonMobil for about six months now as a new graduate dev
 
 ## My Role During the Incident
 
-The issue occurred on May 1, 2025—ironically, on Workforce Day—when business data stopped reaching our services. The root cause turned out to be a certificate issue in the central API gateway, a critical component for routing traffic across all services. As a result, none of the business applications were usable.
+The issue occurred on May 1, 2025, ironically, on Workforce Day—when business data stopped reaching our services. The root cause turned out to be a certificate issue in the central API gateway, a critical component for routing traffic across all services. As a result, none of the business applications were usable.
 
 ## What I Realised
 
@@ -34,4 +34,4 @@ After the incident, I took some steps to level up:
 
 ## Conclusion
 
-This was a wake-up call. Production issues have a way of revealing hidden gaps, and I’m grateful I had the chance to discover mine in a relatively low-pressure situation. Next time something breaks, I want to be more than “just available”—I want to be helpful.
+This was a wake-up call. Production issues have a way of revealing hidden gaps, and I’m grateful I had the chance to discover mine in a relatively low-pressure situation. Next time something breaks, I want to be more than “just available” as I want to be helpful.
