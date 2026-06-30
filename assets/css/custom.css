@@ -1,0 +1,10 @@
+/* Place custom css here */
+
+/* Book covers in reading list */
+.table-outer td img {
+  width: 35px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 3px;
+  display: block;
+}
